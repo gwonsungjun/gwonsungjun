@@ -1,1 +1,1 @@
-![](./deno.gif)
+![](deno.gif)
